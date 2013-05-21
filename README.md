@@ -23,7 +23,9 @@ The Icelandic government releases two interesting datasets on a more visual form
 
 This script takes such a file and creates 12 rows for each category (one for each month). This makes it more practical for analysis and automatic loading. Since there are two different datasets that use this format (they differ only in what the categories are called, e.g. "Expenditure categories" or "Revenue categories") the script allows the user to give the categories a descriptive header (the datasets use the oh so descriptive "Main category").
 
-There are four parameters that can be provided to this script
+An example of input CSV files can be found on [opingogn.is](http://opingogn.is/dataset/gjold-rikissjoos-hagraen-skipting-2012)
+
+There are four parameters that can be provided to this script:
 
 * *-i*: input file (csv file to modify) - *required*
 * *-o*: output file (resulting csv file) - *required*
