@@ -1,420 +1,420 @@
-Ráðuneyti,Rasto,Stofnun,Gjöld - sértekjur,cofog1.code,cofog1.label,cofog2.code,cofog2.label,cofog3.code,cofog3.label
-Æðsta stjórn ríkisins,101,Embætti forseta Íslands,193619674,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Æðsta stjórn ríkisins,201,Alþingi,2571860711,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Æðsta stjórn ríkisins,205,Framkvæmdir á Alþingisreit,37414217,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Æðsta stjórn ríkisins,290,Stjórnlagaþing,8643822,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Æðsta stjórn ríkisins,291,Rannsóknarnefndir Alþingis,381267331,01,Stjórnsýslan sjálf,01.5,Rannsóknir,01.5.0,Rannsóknir
-Æðsta stjórn ríkisins,295,Saksóknari Alþingis,17833961,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Æðsta stjórn ríkisins,301,Ríkisstjórn,253062313,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Æðsta stjórn ríkisins,401,Hæstiréttur,238561547,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Æðsta stjórn ríkisins,610,Umboðsmaður Alþingis,142513893,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Æðsta stjórn ríkisins,620,Ríkisendurskoðun,459754321,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Forsætisráðuneyti,1101,"Forsætisráðuneyti, aðalskrifstofa",337597963,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Forsætisráðuneyti,1190,Ýmis verkefni,155838280,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Forsætisráðuneyti,1201,Fasteignir forsætisráðuneytis,80003530,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Forsætisráðuneyti,1203,Fasteignir Stjórnarráðsins,28413592,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Forsætisráðuneyti,1241,Umboðsmaður barna,41778022,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
-Forsætisráðuneyti,1253,Vest-norrænt menningarhús í Kaupmannahöfn,11934000,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Forsætisráðuneyti,1261,Óbyggðanefnd,40472900,05,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
-Forsætisráðuneyti,1271,Ríkislögmaður,66031417,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Forsætisráðuneyti,1281,Atvinnuuppbygging og fjölgun vistvænna starfa,1500000,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Forsætisráðuneyti,1902,Þjóðgarðurinn á Þingvöllum,128758392,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2101,"Mennta- og menningarmálaráðuneyti, aðalskrifstofa",853659930,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Mennta- og menningarmálaráðuneyti,2201,Háskóli Íslands,10867203212,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2202,Tilraunastöð Háskólans að Keldum,207439372,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2203,Raunvísindastofnun Háskólans,368964386,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2209,Stofnun Árna Magnússonar í íslenskum fræðum,290302761,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2210,Háskólinn á Akureyri,1412984493,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2216,Landbúnaðarháskóli Íslands,650559555,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2217,Hólaskóli - Háskólinn á Hólum,352680479,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2223,Námsmatsstofnun,118492832,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2225,Háskólinn á Bifröst,324900000,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2227,Háskólinn í Reykjavík,2039300000,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2228,Listaháskóli Íslands,702400000,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2231,Rannsóknamiðstöð Íslands,249860557,09,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
-Mennta- og menningarmálaráðuneyti,2235,Markáætlun á sviði vísinda og tækni,83527582,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2236,Rannsóknasjóður,758496955,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2238,Tækjasjóður,211251757,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2239,Rannsóknarnámssjóður,92143301,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2269,"Háskóla- og vísindastofnanir, viðhald og stofnkostnaður",91561835,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2299,Háskóla- og rannsóknastarfsemi,483734533,09,Menntun,09.4,Háskólar,09.4.2,Háskólar
-Mennta- og menningarmálaráðuneyti,2301,Menntaskólinn í Reykjavík,548237843,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2302,Menntaskólinn á Akureyri,560052272,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2303,Menntaskólinn að Laugarvatni,180917867,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2304,Menntaskólinn við Hamrahlíð,945622739,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2305,Menntaskólinn við Sund,489161038,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2306,Menntaskólinn á Ísafirði,276170391,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2307,Menntaskólinn á Egilsstöðum,296700053,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2308,Menntaskólinn í Kópavogi,902419512,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2309,Kvennaskólinn í Reykjavík,459164191,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2316,Fasteignir framhaldsskóla,53256060,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Mennta- og menningarmálaráðuneyti,2318,"Framhaldsskólar, stofnkostnaður",309396603,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2319,"Framhaldsskólar, almennt",826181605,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2320,Nám á framhaldsstigi vegna aðstæðna á vinnumarkaði,32880000,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2350,Fjölbrautaskólinn í Breiðholti,1090375596,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2351,Fjölbrautaskólinn Ármúla,907408835,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2352,Flensborgarskóli,624441299,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2353,Fjölbrautaskóli Suðurnesja,781092283,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2354,Fjölbrautaskóli Vesturlands,459620767,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2355,Framhaldsskólinn í Vestmannaeyjum,229984209,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2356,Fjölbrautaskóli Norðurlands vestra,398654466,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2357,Fjölbrautaskóli Suðurlands,831259081,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2358,Verkmenntaskóli Austurlands,249903172,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2359,Verkmenntaskólinn á Akureyri,1160554539,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2360,Fjölbrautaskólinn í Garðabæ,545964035,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2361,Framhaldsskólinn í A-Skaftafellssýslu,163136134,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2362,Framhaldsskólinn á Húsavík,129788138,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2363,Framhaldsskólinn á Laugum,200941510,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2365,Borgarholtsskóli,985584358,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2367,Fjölbrautaskóli Snæfellinga,219001544,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2368,Menntaskóli Borgarfjarðar,169628038,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2369,Menntaskólinn Hraðbraut,82958517,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2370,Framhaldsskólinn í Mosfellsbæ,183854496,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2372,Menntaskólinn á Tröllaskaga,140431624,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2430,Samskiptamiðstöð heyrnarlausra og heyrnarskertra,84609171,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Mennta- og menningarmálaráðuneyti,2441,Fullorðinsfræðsla fatlaðra,225522371,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Mennta- og menningarmálaráðuneyti,2451,Framhaldsfræðsla,1175982949,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Mennta- og menningarmálaráðuneyti,2504,Tækniskólinn,2023275310,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2514,Iðnskólinn í Reykjavík,437912,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2516,Iðnskólinn í Hafnarfirði,604100189,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2518,Þróunarsjóður fyrir starfsnám,169218610,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2519,Vinnustaðanámssjóður,173612606,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2541,Hússtjórnarskólinn í Reykjavík,29317391,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Mennta- og menningarmálaráðuneyti,2551,Hússtjórnarskólinn Hallormsstað,27217391,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Mennta- og menningarmálaráðuneyti,2565,Tónlistarnám á vegum sveitarfélaga,520000000,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Mennta- og menningarmálaráðuneyti,2581,Verslunarskóli Íslands,935478461,09,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
-Mennta- og menningarmálaráðuneyti,2720,"Grunnskólar, almennt",130109032,09,Menntun,09.1,Yngra fólkið,09.1.2,Grunnskólar
-Mennta- og menningarmálaráðuneyti,2725,Námsgagnastofnun,418678495,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2872,Lánasjóður íslenskra námsmanna,8008466110,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2884,Jöfnun á námskostnaði,591459400,09,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
-Mennta- og menningarmálaráðuneyti,2901,Fornleifavernd ríkisins,93206792,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2902,Þjóðminjasafn Íslands,379116401,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2903,Þjóðskjalasafn Íslands,264659661,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2904,Þjóðmenningarhúsið,85586797,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2905,Landsbókasafn Íslands - Háskólabókasafn,740320414,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2906,Listasafn Einars Jónssonar,17996352,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2907,Listasafn Íslands,173990916,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2908,Kvikmyndasafn Íslands,47428568,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2909,Blindrabókasafn Íslands,87873874,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2911,Náttúruminjasafn Íslands,21407981,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2913,Gljúfrasteinn - Hús skáldsins,35197189,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2918,Safnasjóður,124400990,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2919,Söfn og menningarminjar,79941831,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2961,Fjölmiðlanefnd,37493311,08,Menning og listir,08.3,Fjölmiðlar,08.3.0,Fjölmiðlar
-Mennta- og menningarmálaráðuneyti,2965,"Harpa, tónlistar- og ráðstefnuhús í Reykjavík",540442008,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2969,"Menningarstofnanir, viðhald og stofnkostnaður",104676058,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2971,Ríkisútvarpið,3100000000,08,Menning og listir,08.3,Fjölmiðlar,08.3.0,Fjölmiðlar
-Mennta- og menningarmálaráðuneyti,2972,Íslenski dansflokkurinn,127343027,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2973,Þjóðleikhúsið,695899887,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2974,Sinfóníuhljómsveit Íslands,942534500,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2977,Höfundarréttargjöld,33760659,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Mennta- og menningarmálaráðuneyti,2978,Launasjóðir listamanna,463790003,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2979,Húsafriðunarnefnd,69390569,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2980,Listskreytingasjóður,7523899,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2981,Kvikmyndamiðstöð Íslands,558114727,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2982,Listir,984796724,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Mennta- og menningarmálaráðuneyti,2983,Ýmis fræðistörf,113510836,09,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
-Mennta- og menningarmálaráðuneyti,2984,Norræn samvinna,15625350,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
-Mennta- og menningarmálaráðuneyti,2985,"Rammaáætlanir ESB um menntun, rannsóknir og tækniþróun",1156782887,09,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
-Mennta- og menningarmálaráðuneyti,2988,Æskulýðsmál,210317070,08,Menning og listir,08.1,Íþróttir,08.1.0,Íþróttir
-Mennta- og menningarmálaráðuneyti,2989,Ýmis íþróttamál,405430860,08,Menning og listir,08.1,Íþróttir,08.1.0,Íþróttir
-Mennta- og menningarmálaráðuneyti,2999,Ýmislegt,248478747,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Utanríkisráðuneyti,3101,"Utanríkisráðuneyti, aðalskrifstofa",1305878235,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Utanríkisráðuneyti,3111,Þýðingamiðstöð utanríkisráðuneytis,544632217,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
-Utanríkisráðuneyti,3190,Ýmis verkefni,136104812,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Utanríkisráðuneyti,3300,Sendiráð Íslands,2845928326,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
-Utanríkisráðuneyti,3390,Þróunarsamvinnustofnun Íslands,1219793335,01,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.1,Hjálparstarf
-Utanríkisráðuneyti,3391,Þróunarmál og alþjóðleg hjálparstarfsemi,1683103545,01,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.1,Hjálparstarf
-Utanríkisráðuneyti,3401,Alþjóðastofnanir,1824814356,01,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.2,Alþjóðastofnanir
-Utanríkisráðuneyti,3611,Íslandsstofa,435478859,04,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
-Sjávarútvegs- og landbúnaðarráðuneyti,4101,"Sjávarútvegs- og landbúnaðarráðuneyti, aðalskrifstofa",498057576,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Sjávarútvegs- og landbúnaðarráðuneyti,4190,Ýmis verkefni,339917628,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Sjávarútvegs- og landbúnaðarráðuneyti,4215,Fiskistofa,810606205,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4217,Verðlagsstofa skiptaverðs,19719989,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4234,Matvælastofnun,1146384240,04,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
-Sjávarútvegs- og landbúnaðarráðuneyti,4331,Héraðs- og Austurlandsskógar,118649428,04,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
-Sjávarútvegs- og landbúnaðarráðuneyti,4332,Suðurlandsskógar,88921692,04,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
-Sjávarútvegs- og landbúnaðarráðuneyti,4334,Vesturlandsskógar,53811540,04,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
-Sjávarútvegs- og landbúnaðarráðuneyti,4335,Skjólskógar á Vestfjörðum,35686220,04,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
-Sjávarútvegs- og landbúnaðarráðuneyti,4336,Norðurlandsskógar,86347504,04,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
-Sjávarútvegs- og landbúnaðarráðuneyti,4401,Hafrannsóknastofnunin,1386459383,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4405,Veiðimálastofnun,102926635,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4411,Matvælarannsóknir,406200000,04,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
-Sjávarútvegs- og landbúnaðarráðuneyti,4413,Verkefnasjóður sjávarútvegsins,360735964,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4417,Rannsóknasjóður til að auka verðmæti sjávarfangs,282074427,04,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
-Sjávarútvegs- og landbúnaðarráðuneyti,4421,Bygging rannsóknastofnana sjávarútvegsins,80383897,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Sjávarútvegs- og landbúnaðarráðuneyti,4423,Skrifstofa rannsóknastofnana atvinnuveganna,61518751,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Sjávarútvegs- og landbúnaðarráðuneyti,4481,Rannsóknir háskóla í þágu landbúnaðar,143100000,04,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
-Sjávarútvegs- og landbúnaðarráðuneyti,4483,Landgræðsla og skógrækt í þágu landbúnaðar,23000000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4488,Hagskýrslur og hagrannsóknir um landbúnað,23233106,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4801,Greiðslur vegna mjólkurframleiðslu,6102000000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4805,Greiðslur vegna sauðfjárframleiðslu,4522000000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4807,Greiðslur vegna grænmetisframleiðslu,505300738,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4811,Bændasamtök Íslands,425800000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4818,Búnaðarsjóður,411767667,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4821,Framleiðnisjóður landbúnaðarins,116141576,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4824,Verðmiðlun landbúnaðarvara,405000000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4827,Fóðursjóður,2170058100,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4831,Jarðasjóður og Jarðeignir ríkisins,70936823,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Sjávarútvegs- og landbúnaðarráðuneyti,4843,Fiskræktarsjóður,-784845,04,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
-Sjávarútvegs- og landbúnaðarráðuneyti,4851,Greiðslur vegna riðuveiki,39875812,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Sjávarútvegs- og landbúnaðarráðuneyti,4853,Bjargráðasjóður,130000000,04,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
-Innanríkisráðuneyti,6101,"Innanríkisráðuneyti, aðalskrifstofa",731260939,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Innanríkisráðuneyti,6102,Stjórnartíðindi,26680896,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Innanríkisráðuneyti,6111,Kosningar,524259767,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Innanríkisráðuneyti,6190,Ýmis verkefni,232040427,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Innanríkisráðuneyti,6201,Hæstiréttur,148381322,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6210,Héraðsdómstólar,1325299796,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6231,Málskostnaður í opinberum málum,595462964,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6232,Opinber réttaraðstoð,308278599,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6235,Bætur brotaþola,70161302,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6236,Sanngirnisbætur vegna misgjörða á vistheimilum fyrir börn,504838624,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
-Innanríkisráðuneyti,6251,Persónuvernd,73493496,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6295,Landsdómur,72302546,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6301,Ríkissaksóknari,160925645,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6303,Ríkislögreglustjóri,1201547986,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6305,Lögregluskóli ríkisins,208250792,09,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
-Innanríkisráðuneyti,6309,Sérstakur saksóknari samkvæmt lögum nr. 135/2008,1254300842,03,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
-Innanríkisráðuneyti,6310,Lögreglustjórinn á höfuðborgarsvæðinu,3530612944,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6312,Lögreglustjórinn á Suðurnesjum,1004343659,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6325,Samræmd neyðarsvörun,294360860,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6390,Ýmis löggæslu- og öryggismál,294303349,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6395,Landhelgisgæsla Íslands,4155246166,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6396,Landhelgissjóður Íslands,4419305,03,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
-Innanríkisráðuneyti,6397,Schengen-samstarf,130039844,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
-Innanríkisráðuneyti,6398,Útlendingastofnun,176649360,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
-Innanríkisráðuneyti,6399,Hælisleitendur,220744934,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
-Innanríkisráðuneyti,6411,Sýslumaðurinn í Reykjavík,316163876,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6412,Sýslumaðurinn á Akranesi,189764321,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6413,Sýslumaðurinn í Borgarnesi,182468652,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6414,Sýslumaður Snæfellinga,178534820,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6415,Sýslumaðurinn í Búðardal,24033940,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6416,Sýslumaðurinn á Patreksfirði,35481774,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6417,Sýslumaðurinn í Bolungarvík,35676221,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6418,Sýslumaðurinn á Ísafirði,328365726,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6419,Sýslumaðurinn á Hólmavík,27245723,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6420,Sýslumaðurinn á Blönduósi,215522930,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6421,Sýslumaðurinn á Sauðárkróki,162486597,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6422,Sýslumaðurinn á Siglufirði,48886012,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6424,Sýslumaðurinn á Akureyri,555018640,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6425,Sýslumaðurinn á Húsavík,187594285,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6426,Sýslumaðurinn á Seyðisfirði,192496058,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6428,Sýslumaðurinn á Eskifirði,258306815,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6429,Sýslumaðurinn á Höfn í Hornafirði,36990531,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6430,Sýslumaðurinn í Vík í Mýrdal,42473250,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6431,Sýslumaðurinn á Hvolsvelli,183286078,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6432,Sýslumaðurinn í Vestmannaeyjum,176643389,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6433,Sýslumaðurinn á Selfossi,414170185,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6434,Sýslumaðurinn í Reykjanesbæ,152318981,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6436,Sýslumaðurinn í Hafnarfirði,181829625,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6437,Sýslumaðurinn í Kópavogi,201304067,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6490,Ýmis rekstrarkostnaður sýslumannsembætta,118855774,03,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
-Innanríkisráðuneyti,6501,Fangelsismálastofnun ríkisins,1331650829,03,Lög og regla,03.4,Fangelsi,03.4.0,Fangelsi
-Innanríkisráðuneyti,6591,Fangelsisbyggingar,234193223,03,Lög og regla,03.4,Fangelsi,03.4.0,Fangelsi
-Innanríkisráðuneyti,6651,Vegagerðin,16799736914,04,Hagkerfið,04.5,Umferð,04.5.1,Vegir
-Innanríkisráðuneyti,6657,Umferðarstofa,215100069,04,Hagkerfið,04.5,Umferð,04.5.1,Vegir
-Innanríkisráðuneyti,6658,Rannsóknanefnd umferðarslysa,36606317,04,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
-Innanríkisráðuneyti,6661,Siglingastofnun Íslands,806025306,04,Hagkerfið,04.5,Umferð,04.5.2,Sjór
-Innanríkisráðuneyti,6662,Hafnarframkvæmdir,668516454,04,Hagkerfið,04.5,Umferð,04.5.2,Sjór
-Innanríkisráðuneyti,6668,Rannsóknanefnd sjóslysa,36161199,04,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
-Innanríkisráðuneyti,6671,Flugmálastjórn Íslands,538493988,04,Hagkerfið,04.5,Umferð,04.5.4,Flug
-Innanríkisráðuneyti,6672,Flugvellir og flugleiðsöguþjónusta,1800704000,04,Hagkerfið,04.5,Umferð,04.5.4,Flug
-Innanríkisráðuneyti,6678,Rannsóknanefnd flugslysa,48750826,04,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
-Innanríkisráðuneyti,6681,Póst- og fjarskiptastofnunin,361572774,04,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
-Innanríkisráðuneyti,6682,Jöfnunarsjóður alþjónustu,46318308,04,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
-Innanríkisráðuneyti,6689,Fjarskiptasjóður,379232812,04,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
-Innanríkisráðuneyti,6701,Þjóðkirkjan,1461020071,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6705,Kirkjumálasjóður,229436976,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6707,Kristnisjóður,74000000,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6733,Kirkjugarðar,888000000,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6735,Sóknargjöld,1854627288,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6736,Jöfnunarsjóður sókna,296824068,08,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
-Innanríkisráðuneyti,6801,Neytendastofa,177885016,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Innanríkisráðuneyti,6805,Talsmaður neytenda,15329589,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Innanríkisráðuneyti,6821,Þjóðskrá Íslands,1275624628,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Innanríkisráðuneyti,6841,Jöfnunarsjóður sveitarfélaga,14992400000,06,Heimilin,06.2,Samfélag,06.2.0,Samfélag
-Innanríkisráðuneyti,6848,Meðlög samkvæmt lögum nr. 76/2003,85948845,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
-Innanríkisráðuneyti,6996,Íslenska upplýsingasamfélagið,5006334,04,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
-Velferðarráðuneyti,8101,"Velferðarráðuneyti, aðalskrifstofa",907319021,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Velferðarráðuneyti,8190,Ýmis verkefni,175204705,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Velferðarráðuneyti,8201,Tryggingastofnun ríkisins,980063094,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
-Velferðarráðuneyti,8202,Sjúkratryggingar Íslands,529675584,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8203,Bætur samkvæmt lögum um félagslega aðstoð,12010483967,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
-Velferðarráðuneyti,8204,Lífeyristryggingar,58831031788,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8206,Sjúkratryggingar,30597262329,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8208,Slysatryggingar,670475508,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8209,Sjúklingatrygging,95453060,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8214,Eftirlaunasjóður aldraðra,42011231,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8301,Landlæknir,886534523,07,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
-Velferðarráðuneyti,8317,Lyfjastofnun,381087584,07,Heilbrigði,07.1,Lyf og tæki,07.1.1,Lyf
-Velferðarráðuneyti,8327,Geislavarnir ríkisins,79757796,05,Umhverfið,05.3,Mengunarvarnir,05.3.0,Mengunarvarnir
-Velferðarráðuneyti,8331,Vinnueftirlit ríkisins,493034643,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8332,Ríkissáttasemjari,64629692,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8333,Jafnréttisstofa,78442531,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Velferðarráðuneyti,8334,Umboðsmaður skuldara,1146011873,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Velferðarráðuneyti,8358,Sjúkrahúsið á Akureyri,4543624248,07,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
-Velferðarráðuneyti,8373,Landspítali,36464954943,07,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
-Velferðarráðuneyti,8376,Bygging hátæknisjúkrahúss á lóð Landspítalans,1340000000,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Velferðarráðuneyti,8379,"Sjúkrahús, óskipt",108413113,07,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
-Velferðarráðuneyti,8383,Sjúkrahótel,103287812,07,Heilbrigði,07.3,Sjúkrahús,07.3.2,Sérstök þjónusta
-Velferðarráðuneyti,8388,Samtök áhugamanna um áfengisvandamálið,658000000,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
-Velferðarráðuneyti,8398,"Félagsmál, ýmis starfsemi",560606842,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
-Velferðarráðuneyti,8399,"Heilbrigðismál, ýmis starfsemi",1140232634,07,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
-Velferðarráðuneyti,8401,"Öldrunarstofnanir, almennt",-377680180,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8402,Framkvæmdasjóður aldraðra,1319197021,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8405,"Hrafnista, Reykjavík",1675383300,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8406,"Hrafnista, Hafnarfirði",1592706855,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8407,"Grund, Reykjavik",1505079640,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8408,"Sunnuhlíð, Kópavogi",612571315,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8409,Hjúkrunarheimilið Skjól,849049807,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8410,Hjúkrunarheimilið Eir,1474100843,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8411,"Garðvangur, Garði",306993379,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8412,Hjúkrunarheimilið Skógarbær,647606958,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8413,Hjúkrunarheimilið Droplaugarstöðum,662542579,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8414,"Hjúkrunarheimilið Lundur, Hellu",241135725,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8415,"Hjúkrunarheimilið Hulduhlíð, Eskifirði",142847746,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8416,"Hjúkrunarheimilið Hornbrekka, Ólafsfirði",182350427,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8417,"Hjúkrunarheimilið Naust, Þórshöfn",73135528,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8418,"Seljahlíð, Reykjavík",173607621,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8419,"Sólvangur, Hafnarfirði",575023878,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8423,"Höfði, Akranesi",518882345,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8424,Dvalarheimili aldraðra Borgarnesi,324916052,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8425,Dvalarheimili aldraðra Stykkishólmi,112760937,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8426,"Fellaskjól, Grundarfirði",85259049,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8427,"Jaðar, Ólafsvík",91913094,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8428,"Fellsendi, Búðardal",196554335,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8429,"Barmahlíð, Reykhólum",114599828,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8433,"Dalbær, Dalvík",273108758,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8434,Samningur við Akureyrarbæ um öldrunarþjónustu,1345790812,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8436,"Uppsalir, Fáskrúðsfirði",148482615,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8437,Samningur við Sveitarfélagið Hornafjörð um öldrunarþjónustu,207974582,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8438,"Klausturhólar, Kirkjubæjarklaustri",113465753,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8439,"Hjallatún, Vík",115313590,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8440,"Kumbaravogur, Stokkseyri",267856809,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8441,"Ás/Ásbyrgi, Hveragerði",742581511,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8442,"Hraunbúðir, Vestmannaeyjum",256688919,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8443,"Holtsbúð, Garðabæ",353241286,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8445,"Mörk, Reykjavík",881933312,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8446,"Hrafnista, Kópavogi",334918709,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8447,"Sóltún, Reykjavík",1129486177,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8460,"Dvalarrými aldraðra, önnur",406201562,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8470,"Vesturhlíð, Reykjavík",9024828,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8472,"Hlíðabær, Reykjavik",55461452,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8473,"Lindargata, Reykjavík",48437905,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8474,Dagvist og endurhæfingarstöð MS-sjúklinga,96225740,07,Heilbrigði,07.3,Sjúkrahús,07.3.2,Sérstök þjónusta
-Velferðarráðuneyti,8475,"Múlabær, Reykjavík",81440650,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8476,"Fríðuhús, Reykjavík",44827820,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8477,"Dagvistun aldraðra, aðrar",606582579,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Velferðarráðuneyti,8479,Hlaðgerðarkot,89400000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8491,"Reykjalundur, Mosfellsbæ",1376800000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
-Velferðarráðuneyti,8492,Heilsustofnun Náttúrulækningafélags Íslands,528400000,07,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
-Velferðarráðuneyti,8493,"Sjálfsbjörg, hjúkrunar- og endurhæfingarstofnun",485000000,07,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
-Velferðarráðuneyti,8494,Hlein,119500000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8500,"Heilsugæslustöðvar, almennt",40105736,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8501,Sjúkraflutningar,1001260613,07,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
-Velferðarráðuneyti,8506,Heilsugæsla á höfuðborgarsvæðinu,4522265778,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8508,Miðstöð heimahjúkrunar á höfuðborgarsvæðinu,1065000000,07,Heilbrigði,07.3,Sjúkrahús,07.3.4,Heimahjúkrun
-Velferðarráðuneyti,8515,Heilsugæslustöðin Lágmúla í Reykjavík,181900000,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8517,Læknavaktin,329400000,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8552,Heilsugæslustöðin Dalvík,113911757,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8553,Samningur við Akureyrarbæ um heilsugæslu,524800000,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8588,Heilsugæslustöðin í Salahverfi í Kópavogi,306164087,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8700,Heilbrigðisstofnanir,10347583,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8716,Heilbrigðisstofnun Vesturlands,2889170533,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8721,Heilbrigðisstofnunin Patreksfirði,282054250,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8726,Heilbrigðisstofnun Vestfjarða,1104967935,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8745,Heilbrigðisstofnunin Blönduósi,412130582,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8751,Heilbrigðisstofnunin Sauðárkróki,835286100,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8756,Heilbrigðisstofnunin Fjallabyggð,438654473,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8761,Heilbrigðisstofnun Þingeyinga,900561927,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8777,Heilbrigðisstofnun Austurlands,2195700633,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8779,Heilbrigðisstofnun Suð-Austurlands,217100000,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8781,Heilbrigðisstofnunin Vestmannaeyjum,724719663,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8787,Heilbrigðisstofnun Suðurlands,2179895810,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8791,Heilbrigðisstofnun Suðurnesja,1830603934,07,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
-Velferðarráðuneyti,8801,Greiningar- og ráðgjafarstöð ríkisins,395598134,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8805,Þjónustu- og þekkingarmiðstöð fyrir blinda og sjónskerta,293473753,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8807,Heyrnar- og talmeinastöð Íslands,248369469,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8809,Málefni fatlaðra,343786680,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8821,Barnaverndarstofa,1051178648,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
-Velferðarráðuneyti,8841,Vinnumálastofnun,149633682,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8842,Vinnumál,169972012,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8851,Atvinnuleysistryggingasjóður,23108928491,10,Aðstoð fyrir aðra,10.5,Atvinnuleysi,10.5.0,Atvinnuleysi
-Velferðarráðuneyti,8852,Tryggingasjóður sjálfstætt starfandi einstaklinga,22983550,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Velferðarráðuneyti,8853,Ábyrgðasjóður launa,1128958657,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8854,Fæðingarorlof,7859112414,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
-Velferðarráðuneyti,8855,Foreldrar langveikra eða alvarlega fatlaðra barna,94898508,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Velferðarráðuneyti,8856,Starfsendurhæfing,464256772,04,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
-Velferðarráðuneyti,8861,Leiguíbúðir,700224662,06,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
-Fjármálaráðuneyti,9101,"Fjármálaráðuneyti, aðalskrifstofa",770602675,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Fjármálaráðuneyti,9103,Fjársýsla ríkisins,1416086150,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9210,Ríkisskattstjóri,2490775298,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9212,"Skatta- og tollamál, ýmis útgjöld",11953685,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9214,Yfirskattanefnd,127256479,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9215,Skattrannsóknarstjóri ríkisins,298074204,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9250,Innheimtukostnaður,543726720,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9262,Tollstjórinn,2273010649,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Fjármálaráðuneyti,9381,"Lífeyrisskuldbindingar, eftirlaun",9581552168,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Fjármálaráðuneyti,9391,Jöfnun á örorkubyrði almennra lífeyrissjóða,2698308447,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
-Fjármálaráðuneyti,9721,Fjármagnstekjuskattur,3579699331,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9811,Barnabætur,7757311515,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
-Fjármálaráðuneyti,9821,Vaxtabætur,15019267430,06,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
-Fjármálaráðuneyti,9831,Uppbætur á eftirlaun lífeyrisþega,278137,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
-Fjármálaráðuneyti,9901,Framkvæmdasýsla ríkisins,-13288758,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Fjármálaráðuneyti,9905,Ríkiskaup,-13694316,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Fjármálaráðuneyti,9971,Ríkisábyrgðir,1716728579,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9973,Tapaðar kröfur og tjónabætur,-22946785,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9976,Lánaumsýsla ríkissjóðs,103468452,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9977,Bankasýsla ríkisins,84858311,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
-Fjármálaráðuneyti,9980,Rekstrarfélag Stjórnarráðsins,102435722,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Fjármálaráðuneyti,9981,Ýmsar fasteignir ríkissjóðs,93566042,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Fjármálaráðuneyti,9984,Fasteignir ríkissjóðs,31555644,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Fjármálaráðuneyti,9985,Fyrrum varnarsvæði við Keflavíkurflugvöll,650000000,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
-Fjármálaráðuneyti,9991,Aðflutningsgjöld af útflutningi notaðra ökutækja,3811451,04,Hagkerfið,04.5,Umferð,04.5.1,Vegir
-Fjármálaráðuneyti,9994,Virðisaukaskattur ríkisstofnana af tölvuvinnslu,179113238,01,Stjórnsýslan sjálf,01.8,Flutningur peninga,01.8.0,Flutningur peninga
-Fjármálaráðuneyti,9999,Ýmislegt,1824735153,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Iðnaðarráðuneyti,11101,"Iðnaðarráðuneyti, aðalskrifstofa",200101548,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Iðnaðarráðuneyti,11199,Ráðstöfunarfé,1000000,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Iðnaðarráðuneyti,11205,Nýsköpunarmiðstöð Íslands,516951907,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Iðnaðarráðuneyti,11240,Iðnaðarrannsóknir og stóriðja,8290702,04,Hagkerfið,04.8,Rannsóknir,04.8.4,Framleiðsla
-Iðnaðarráðuneyti,11242,Tækniþróunarsjóður,676150257,04,Hagkerfið,04.8,Rannsóknir,04.8.4,Framleiðsla
-Iðnaðarráðuneyti,11251,Endurgreiðslur vegna kvikmyndagerðar á Íslandi,598772592,08,Menning og listir,08.2,Menning,08.2.0,Menning
-Iðnaðarráðuneyti,11255,Stuðningur við nýsköpunarfyrirtæki,763549403,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Iðnaðarráðuneyti,11299,"Iðja og iðnaður, framlög",447990467,04,Hagkerfið,04.4,Framleiðsla,04.4.2,Framleiðsla
-Iðnaðarráðuneyti,11301,Orkustofnun,351147603,04,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
-Iðnaðarráðuneyti,11371,Orkusjóður,31200000,04,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
-Iðnaðarráðuneyti,11373,Niðurgreiðslur á húshitun,1215519747,06,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
-Iðnaðarráðuneyti,11375,Jöfnun kostnaðar við dreifingu raforku,246369773,04,Hagkerfið,04.3,Orka,04.3.5,Raforka
-Iðnaðarráðuneyti,11399,Ýmis orkumál,95053303,04,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
-Iðnaðarráðuneyti,11401,Byggðaáætlun,497647003,06,Heimilin,06.2,Samfélag,06.2.0,Samfélag
-Iðnaðarráðuneyti,11411,Byggðastofnun,309100000,06,Heimilin,06.2,Samfélag,06.2.0,Samfélag
-Iðnaðarráðuneyti,11501,Ferðamálastofa,410516299,04,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
-Iðnaðarráðuneyti,11511,Framkvæmdasjóður ferðamannastaða,39938020,04,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
-Iðnaðarráðuneyti,11599,Ýmis ferðamál,472759569,04,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
-Efnahags- og viðskiptaráðuneyti,12101,"Efnahags- og viðskiptaráðuneyti, aðalskrifstofa",263008006,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Efnahags- og viðskiptaráðuneyti,12190,Ýmis verkefni,169466305,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Efnahags- og viðskiptaráðuneyti,12402,Fjármálaeftirlitið,1672256501,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Efnahags- og viðskiptaráðuneyti,12411,Samkeppniseftirlitið,324022171,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Efnahags- og viðskiptaráðuneyti,12431,Einkaleyfastofan,214524539,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Efnahags- og viðskiptaráðuneyti,12501,Hagstofa Íslands,916390520,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.2,Skipulagning
-Efnahags- og viðskiptaráðuneyti,12811,Flutningssjóður olíuvara,430000000,04,Hagkerfið,04.3,Orka,04.3.2,Olía
-Umhverfisráðuneyti,14101,"Umhverfisráðuneyti, aðalskrifstofa",379288540,01,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
-Umhverfisráðuneyti,14190,Ýmis verkefni,301807730,01,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
-Umhverfisráðuneyti,14202,Náttúrurannsóknastöðin við Mývatn,20001052,05,Umhverfið,05.5,Rannsóknir,05.5.0,Rannsóknir
-Umhverfisráðuneyti,14211,Umhverfisstofnun,997294112,05,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
-Umhverfisráðuneyti,14212,Vatnajökulsþjóðgarður,354819952,05,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
-Umhverfisráðuneyti,14231,Landgræðsla ríkisins,648764179,05,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
-Umhverfisráðuneyti,14241,Skógrækt ríkisins,230239325,05,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
-Umhverfisráðuneyti,14243,Hekluskógar,19350144,05,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
-Umhverfisráðuneyti,14287,Úrvinnslusjóður,845187454,05,Umhverfið,05.1,Úrgangur,05.1.0,Úrgangur
-Umhverfisráðuneyti,14289,Endurvinnslan hf.,1661822829,05,Umhverfið,05.1,Úrgangur,05.1.0,Úrgangur
-Umhverfisráðuneyti,14301,Skipulagsstofnun,201384617,06,Heimilin,06.2,Samfélag,06.2.0,Samfélag
-Umhverfisráðuneyti,14303,Skipulagsmál sveitarfélaga,84364934,06,Heimilin,06.2,Samfélag,06.2.0,Samfélag
-Umhverfisráðuneyti,14310,Landmælingar Íslands,253596747,01,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.2,Skipulagning
-Umhverfisráðuneyti,14320,Mannvirkjastofnun,405155105,04,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
-Umhverfisráðuneyti,14381,Ofanflóðasjóður,1312262799,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
-Umhverfisráðuneyti,14401,Náttúrufræðistofnun Íslands,579733237,05,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
-Umhverfisráðuneyti,14403,Náttúrustofur,122100000,05,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
-Umhverfisráðuneyti,14407,Stofnun Vilhjálms Stefánssonar,37701213,05,Umhverfið,05.5,Rannsóknir,05.5.0,Rannsóknir
-Umhverfisráðuneyti,14412,Veðurstofa Íslands,650238323,01,Stjórnsýslan sjálf,01.4,Almenn þjónusta,01.3.2,Skipulagning
-Fjármagnskostnaður,19801,Vaxtagjöld ríkissjóðs,75570268876,01,Stjórnsýslan sjálf,01.7,Skuldir,01.7.0,Skuldir
+Tími,Ráðuneyti,Rasto,Stofnun,Gjöld - sértekjur,cofog1.code,cofog1.label,cofog2.code,cofog2.label,cofog3.code,cofog3.label
+2008,Æðsta stjórn ríkisins,101,Embætti forseta Íslands,193619674,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Æðsta stjórn ríkisins,201,Alþingi,2571860711,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Æðsta stjórn ríkisins,205,Framkvæmdir á Alþingisreit,37414217,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Æðsta stjórn ríkisins,290,Stjórnlagaþing,8643822,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Æðsta stjórn ríkisins,291,Rannsóknarnefndir Alþingis,381267331,1,Stjórnsýslan sjálf,01.5,Rannsóknir,01.5.0,Rannsóknir
+2008,Æðsta stjórn ríkisins,295,Saksóknari Alþingis,17833961,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Æðsta stjórn ríkisins,301,Ríkisstjórn,253062313,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Æðsta stjórn ríkisins,401,Hæstiréttur,238561547,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Æðsta stjórn ríkisins,610,Umboðsmaður Alþingis,142513893,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Æðsta stjórn ríkisins,620,Ríkisendurskoðun,459754321,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Forsætisráðuneyti,1101,"Forsætisráðuneyti, aðalskrifstofa",337597963,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Forsætisráðuneyti,1190,Ýmis verkefni,155838280,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Forsætisráðuneyti,1201,Fasteignir forsætisráðuneytis,80003530,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Forsætisráðuneyti,1203,Fasteignir Stjórnarráðsins,28413592,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Forsætisráðuneyti,1241,Umboðsmaður barna,41778022,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
+2008,Forsætisráðuneyti,1253,Vest-norrænt menningarhús í Kaupmannahöfn,11934000,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Forsætisráðuneyti,1261,Óbyggðanefnd,40472900,5,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
+2008,Forsætisráðuneyti,1271,Ríkislögmaður,66031417,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Forsætisráðuneyti,1281,Atvinnuuppbygging og fjölgun vistvænna starfa,1500000,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Forsætisráðuneyti,1902,Þjóðgarðurinn á Þingvöllum,128758392,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2101,"Mennta- og menningarmálaráðuneyti, aðalskrifstofa",853659930,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Mennta- og menningarmálaráðuneyti,2201,Háskóli Íslands,10867203212,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2202,Tilraunastöð Háskólans að Keldum,207439372,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2203,Raunvísindastofnun Háskólans,368964386,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2209,Stofnun Árna Magnússonar í íslenskum fræðum,290302761,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2210,Háskólinn á Akureyri,1412984493,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2216,Landbúnaðarháskóli Íslands,650559555,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2217,Hólaskóli - Háskólinn á Hólum,352680479,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2223,Námsmatsstofnun,118492832,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2225,Háskólinn á Bifröst,324900000,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2227,Háskólinn í Reykjavík,2039300000,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2228,Listaháskóli Íslands,702400000,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2231,Rannsóknamiðstöð Íslands,249860557,9,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
+2008,Mennta- og menningarmálaráðuneyti,2235,Markáætlun á sviði vísinda og tækni,83527582,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2236,Rannsóknasjóður,758496955,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2238,Tækjasjóður,211251757,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2239,Rannsóknarnámssjóður,92143301,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2269,"Háskóla- og vísindastofnanir, viðhald og stofnkostnaður",91561835,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2299,Háskóla- og rannsóknastarfsemi,483734533,9,Menntun,09.4,Háskólar,09.4.2,Háskólar
+2008,Mennta- og menningarmálaráðuneyti,2301,Menntaskólinn í Reykjavík,548237843,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2302,Menntaskólinn á Akureyri,560052272,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2303,Menntaskólinn að Laugarvatni,180917867,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2304,Menntaskólinn við Hamrahlíð,945622739,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2305,Menntaskólinn við Sund,489161038,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2306,Menntaskólinn á Ísafirði,276170391,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2307,Menntaskólinn á Egilsstöðum,296700053,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2308,Menntaskólinn í Kópavogi,902419512,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2309,Kvennaskólinn í Reykjavík,459164191,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2316,Fasteignir framhaldsskóla,53256060,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Mennta- og menningarmálaráðuneyti,2318,"Framhaldsskólar, stofnkostnaður",309396603,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2319,"Framhaldsskólar, almennt",826181605,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2320,Nám á framhaldsstigi vegna aðstæðna á vinnumarkaði,32880000,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2350,Fjölbrautaskólinn í Breiðholti,1090375596,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2351,Fjölbrautaskólinn Ármúla,907408835,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2352,Flensborgarskóli,624441299,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2353,Fjölbrautaskóli Suðurnesja,781092283,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2354,Fjölbrautaskóli Vesturlands,459620767,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2355,Framhaldsskólinn í Vestmannaeyjum,229984209,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2356,Fjölbrautaskóli Norðurlands vestra,398654466,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2357,Fjölbrautaskóli Suðurlands,831259081,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2358,Verkmenntaskóli Austurlands,249903172,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2359,Verkmenntaskólinn á Akureyri,1160554539,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2360,Fjölbrautaskólinn í Garðabæ,545964035,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2361,Framhaldsskólinn í A-Skaftafellssýslu,163136134,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2362,Framhaldsskólinn á Húsavík,129788138,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2363,Framhaldsskólinn á Laugum,200941510,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2365,Borgarholtsskóli,985584358,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2367,Fjölbrautaskóli Snæfellinga,219001544,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2368,Menntaskóli Borgarfjarðar,169628038,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2369,Menntaskólinn Hraðbraut,82958517,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2370,Framhaldsskólinn í Mosfellsbæ,183854496,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2372,Menntaskólinn á Tröllaskaga,140431624,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2430,Samskiptamiðstöð heyrnarlausra og heyrnarskertra,84609171,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Mennta- og menningarmálaráðuneyti,2441,Fullorðinsfræðsla fatlaðra,225522371,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Mennta- og menningarmálaráðuneyti,2451,Framhaldsfræðsla,1175982949,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Mennta- og menningarmálaráðuneyti,2504,Tækniskólinn,2023275310,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2514,Iðnskólinn í Reykjavík,437912,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2516,Iðnskólinn í Hafnarfirði,604100189,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2518,Þróunarsjóður fyrir starfsnám,169218610,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2519,Vinnustaðanámssjóður,173612606,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2541,Hússtjórnarskólinn í Reykjavík,29317391,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Mennta- og menningarmálaráðuneyti,2551,Hússtjórnarskólinn Hallormsstað,27217391,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Mennta- og menningarmálaráðuneyti,2565,Tónlistarnám á vegum sveitarfélaga,520000000,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Mennta- og menningarmálaráðuneyti,2581,Verslunarskóli Íslands,935478461,9,Menntun,09.2,Framhaldsskólar,09.2.2,Framhaldsskólar
+2008,Mennta- og menningarmálaráðuneyti,2720,"Grunnskólar, almennt",130109032,9,Menntun,09.1,Yngra fólkið,09.1.2,Grunnskólar
+2008,Mennta- og menningarmálaráðuneyti,2725,Námsgagnastofnun,418678495,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2872,Lánasjóður íslenskra námsmanna,8008466110,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2884,Jöfnun á námskostnaði,591459400,9,Menntun,09.6,Þjónusta við menntun,09.6.0,Þjónusta við menntun
+2008,Mennta- og menningarmálaráðuneyti,2901,Fornleifavernd ríkisins,93206792,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2902,Þjóðminjasafn Íslands,379116401,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2903,Þjóðskjalasafn Íslands,264659661,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2904,Þjóðmenningarhúsið,85586797,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2905,Landsbókasafn Íslands - Háskólabókasafn,740320414,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2906,Listasafn Einars Jónssonar,17996352,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2907,Listasafn Íslands,173990916,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2908,Kvikmyndasafn Íslands,47428568,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2909,Blindrabókasafn Íslands,87873874,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2911,Náttúruminjasafn Íslands,21407981,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2913,Gljúfrasteinn - Hús skáldsins,35197189,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2918,Safnasjóður,124400990,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2919,Söfn og menningarminjar,79941831,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2961,Fjölmiðlanefnd,37493311,8,Menning og listir,08.3,Fjölmiðlar,08.3.0,Fjölmiðlar
+2008,Mennta- og menningarmálaráðuneyti,2965,"Harpa, tónlistar- og ráðstefnuhús í Reykjavík",540442008,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2969,"Menningarstofnanir, viðhald og stofnkostnaður",104676058,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2971,Ríkisútvarpið,3100000000,8,Menning og listir,08.3,Fjölmiðlar,08.3.0,Fjölmiðlar
+2008,Mennta- og menningarmálaráðuneyti,2972,Íslenski dansflokkurinn,127343027,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2973,Þjóðleikhúsið,695899887,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2974,Sinfóníuhljómsveit Íslands,942534500,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2977,Höfundarréttargjöld,33760659,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Mennta- og menningarmálaráðuneyti,2978,Launasjóðir listamanna,463790003,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2979,Húsafriðunarnefnd,69390569,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2980,Listskreytingasjóður,7523899,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2981,Kvikmyndamiðstöð Íslands,558114727,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2982,Listir,984796724,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Mennta- og menningarmálaráðuneyti,2983,Ýmis fræðistörf,113510836,9,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
+2008,Mennta- og menningarmálaráðuneyti,2984,Norræn samvinna,15625350,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
+2008,Mennta- og menningarmálaráðuneyti,2985,"Rammaáætlanir ESB um menntun, rannsóknir og tækniþróun",1156782887,9,Menntun,09.7,Rannsóknir,09.7.0,Rannsóknir
+2008,Mennta- og menningarmálaráðuneyti,2988,Æskulýðsmál,210317070,8,Menning og listir,08.1,Íþróttir,08.1.0,Íþróttir
+2008,Mennta- og menningarmálaráðuneyti,2989,Ýmis íþróttamál,405430860,8,Menning og listir,08.1,Íþróttir,08.1.0,Íþróttir
+2008,Mennta- og menningarmálaráðuneyti,2999,Ýmislegt,248478747,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Utanríkisráðuneyti,3101,"Utanríkisráðuneyti, aðalskrifstofa",1305878235,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Utanríkisráðuneyti,3111,Þýðingamiðstöð utanríkisráðuneytis,544632217,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
+2008,Utanríkisráðuneyti,3190,Ýmis verkefni,136104812,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Utanríkisráðuneyti,3300,Sendiráð Íslands,2845928326,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
+2008,Utanríkisráðuneyti,3390,Þróunarsamvinnustofnun Íslands,1219793335,1,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.1,Hjálparstarf
+2008,Utanríkisráðuneyti,3391,Þróunarmál og alþjóðleg hjálparstarfsemi,1683103545,1,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.1,Hjálparstarf
+2008,Utanríkisráðuneyti,3401,Alþjóðastofnanir,1824814356,1,Stjórnsýslan sjálf,01.2,Hjálparstarf,01.2.2,Alþjóðastofnanir
+2008,Utanríkisráðuneyti,3611,Íslandsstofa,435478859,4,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4101,"Sjávarútvegs- og landbúnaðarráðuneyti, aðalskrifstofa",498057576,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4190,Ýmis verkefni,339917628,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4215,Fiskistofa,810606205,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4217,Verðlagsstofa skiptaverðs,19719989,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4234,Matvælastofnun,1146384240,4,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4331,Héraðs- og Austurlandsskógar,118649428,4,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4332,Suðurlandsskógar,88921692,4,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4334,Vesturlandsskógar,53811540,4,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4335,Skjólskógar á Vestfjörðum,35686220,4,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4336,Norðurlandsskógar,86347504,4,Hagkerfið,04.2,Sjór og land,04.2.2,Skógar
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4401,Hafrannsóknastofnunin,1386459383,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4405,Veiðimálastofnun,102926635,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4411,Matvælarannsóknir,406200000,4,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4413,Verkefnasjóður sjávarútvegsins,360735964,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4417,Rannsóknasjóður til að auka verðmæti sjávarfangs,282074427,4,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4421,Bygging rannsóknastofnana sjávarútvegsins,80383897,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4423,Skrifstofa rannsóknastofnana atvinnuveganna,61518751,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4481,Rannsóknir háskóla í þágu landbúnaðar,143100000,4,Hagkerfið,04.8,Rannsóknir,04.8.2,Sjór og land
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4483,Landgræðsla og skógrækt í þágu landbúnaðar,23000000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4488,Hagskýrslur og hagrannsóknir um landbúnað,23233106,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4801,Greiðslur vegna mjólkurframleiðslu,6102000000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4805,Greiðslur vegna sauðfjárframleiðslu,4522000000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4807,Greiðslur vegna grænmetisframleiðslu,505300738,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4811,Bændasamtök Íslands,425800000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4818,Búnaðarsjóður,411767667,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4821,Framleiðnisjóður landbúnaðarins,116141576,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4824,Verðmiðlun landbúnaðarvara,405000000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4827,Fóðursjóður,2170058100,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4831,Jarðasjóður og Jarðeignir ríkisins,70936823,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4843,Fiskræktarsjóður,-784845,4,Hagkerfið,04.2,Sjór og land,04.2.3,Sjávarútvegur
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4851,Greiðslur vegna riðuveiki,39875812,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Sjávarútvegs- og landbúnaðarráðuneyti,4853,Bjargráðasjóður,130000000,4,Hagkerfið,04.2,Sjór og land,04.2.1,Landbúnaður
+2008,Innanríkisráðuneyti,6101,"Innanríkisráðuneyti, aðalskrifstofa",731260939,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Innanríkisráðuneyti,6102,Stjórnartíðindi,26680896,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Innanríkisráðuneyti,6111,Kosningar,524259767,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Innanríkisráðuneyti,6190,Ýmis verkefni,232040427,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Innanríkisráðuneyti,6201,Hæstiréttur,148381322,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6210,Héraðsdómstólar,1325299796,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6231,Málskostnaður í opinberum málum,595462964,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6232,Opinber réttaraðstoð,308278599,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6235,Bætur brotaþola,70161302,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6236,Sanngirnisbætur vegna misgjörða á vistheimilum fyrir börn,504838624,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
+2008,Innanríkisráðuneyti,6251,Persónuvernd,73493496,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6295,Landsdómur,72302546,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6301,Ríkissaksóknari,160925645,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6303,Ríkislögreglustjóri,1201547986,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6305,Lögregluskóli ríkisins,208250792,9,Menntun,09.5,Önnur menntun,09.5.0,Önnur menntun
+2008,Innanríkisráðuneyti,6309,Sérstakur saksóknari samkvæmt lögum nr. 135/2008,1254300842,3,Lög og regla,03.3,Dómstólar,03.3.0,Dómstólar
+2008,Innanríkisráðuneyti,6310,Lögreglustjórinn á höfuðborgarsvæðinu,3530612944,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6312,Lögreglustjórinn á Suðurnesjum,1004343659,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6325,Samræmd neyðarsvörun,294360860,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6390,Ýmis löggæslu- og öryggismál,294303349,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6395,Landhelgisgæsla Íslands,4155246166,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6396,Landhelgissjóður Íslands,4419305,3,Lög og regla,03.1,Lögreglan,03.1.0,Lögreglan
+2008,Innanríkisráðuneyti,6397,Schengen-samstarf,130039844,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.3,Alþjóðasamskipti
+2008,Innanríkisráðuneyti,6398,Útlendingastofnun,176649360,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
+2008,Innanríkisráðuneyti,6399,Hælisleitendur,220744934,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
+2008,Innanríkisráðuneyti,6411,Sýslumaðurinn í Reykjavík,316163876,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6412,Sýslumaðurinn á Akranesi,189764321,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6413,Sýslumaðurinn í Borgarnesi,182468652,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6414,Sýslumaður Snæfellinga,178534820,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6415,Sýslumaðurinn í Búðardal,24033940,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6416,Sýslumaðurinn á Patreksfirði,35481774,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6417,Sýslumaðurinn í Bolungarvík,35676221,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6418,Sýslumaðurinn á Ísafirði,328365726,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6419,Sýslumaðurinn á Hólmavík,27245723,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6420,Sýslumaðurinn á Blönduósi,215522930,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6421,Sýslumaðurinn á Sauðárkróki,162486597,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6422,Sýslumaðurinn á Siglufirði,48886012,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6424,Sýslumaðurinn á Akureyri,555018640,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6425,Sýslumaðurinn á Húsavík,187594285,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6426,Sýslumaðurinn á Seyðisfirði,192496058,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6428,Sýslumaðurinn á Eskifirði,258306815,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6429,Sýslumaðurinn á Höfn í Hornafirði,36990531,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6430,Sýslumaðurinn í Vík í Mýrdal,42473250,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6431,Sýslumaðurinn á Hvolsvelli,183286078,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6432,Sýslumaðurinn í Vestmannaeyjum,176643389,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6433,Sýslumaðurinn á Selfossi,414170185,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6434,Sýslumaðurinn í Reykjanesbæ,152318981,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6436,Sýslumaðurinn í Hafnarfirði,181829625,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6437,Sýslumaðurinn í Kópavogi,201304067,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6490,Ýmis rekstrarkostnaður sýslumannsembætta,118855774,3,Lög og regla,03.6,Ýmis þjónusta,03.6.0,Ýmis þjónusta
+2008,Innanríkisráðuneyti,6501,Fangelsismálastofnun ríkisins,1331650829,3,Lög og regla,03.4,Fangelsi,03.4.0,Fangelsi
+2008,Innanríkisráðuneyti,6591,Fangelsisbyggingar,234193223,3,Lög og regla,03.4,Fangelsi,03.4.0,Fangelsi
+2008,Innanríkisráðuneyti,6651,Vegagerðin,16799736914,4,Hagkerfið,04.5,Umferð,04.5.1,Vegir
+2008,Innanríkisráðuneyti,6657,Umferðarstofa,215100069,4,Hagkerfið,04.5,Umferð,04.5.1,Vegir
+2008,Innanríkisráðuneyti,6658,Rannsóknanefnd umferðarslysa,36606317,4,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
+2008,Innanríkisráðuneyti,6661,Siglingastofnun Íslands,806025306,4,Hagkerfið,04.5,Umferð,04.5.2,Sjór
+2008,Innanríkisráðuneyti,6662,Hafnarframkvæmdir,668516454,4,Hagkerfið,04.5,Umferð,04.5.2,Sjór
+2008,Innanríkisráðuneyti,6668,Rannsóknanefnd sjóslysa,36161199,4,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
+2008,Innanríkisráðuneyti,6671,Flugmálastjórn Íslands,538493988,4,Hagkerfið,04.5,Umferð,04.5.4,Flug
+2008,Innanríkisráðuneyti,6672,Flugvellir og flugleiðsöguþjónusta,1800704000,4,Hagkerfið,04.5,Umferð,04.5.4,Flug
+2008,Innanríkisráðuneyti,6678,Rannsóknanefnd flugslysa,48750826,4,Hagkerfið,04.8,Rannsóknir,04.8.5,Umferð
+2008,Innanríkisráðuneyti,6681,Póst- og fjarskiptastofnunin,361572774,4,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
+2008,Innanríkisráðuneyti,6682,Jöfnunarsjóður alþjónustu,46318308,4,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
+2008,Innanríkisráðuneyti,6689,Fjarskiptasjóður,379232812,4,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
+2008,Innanríkisráðuneyti,6701,Þjóðkirkjan,1461020071,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6705,Kirkjumálasjóður,229436976,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6707,Kristnisjóður,74000000,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6733,Kirkjugarðar,888000000,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6735,Sóknargjöld,1854627288,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6736,Jöfnunarsjóður sókna,296824068,8,Menning og listir,08.4,Trúmál,08.4.0,Trúmál
+2008,Innanríkisráðuneyti,6801,Neytendastofa,177885016,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Innanríkisráðuneyti,6805,Talsmaður neytenda,15329589,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Innanríkisráðuneyti,6821,Þjóðskrá Íslands,1275624628,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Innanríkisráðuneyti,6841,Jöfnunarsjóður sveitarfélaga,14992400000,6,Heimilin,06.2,Samfélag,06.2.0,Samfélag
+2008,Innanríkisráðuneyti,6848,Meðlög samkvæmt lögum nr. 76/2003,85948845,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
+2008,Innanríkisráðuneyti,6996,Íslenska upplýsingasamfélagið,5006334,4,Hagkerfið,04.6,Samskipti,04.6.0,Samskipti
+2008,Velferðarráðuneyti,8101,"Velferðarráðuneyti, aðalskrifstofa",907319021,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Velferðarráðuneyti,8190,Ýmis verkefni,175204705,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Velferðarráðuneyti,8201,Tryggingastofnun ríkisins,980063094,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8202,Sjúkratryggingar Íslands,529675584,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8203,Bætur samkvæmt lögum um félagslega aðstoð,12010483967,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
+2008,Velferðarráðuneyti,8204,Lífeyristryggingar,58831031788,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8206,Sjúkratryggingar,30597262329,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8208,Slysatryggingar,670475508,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8209,Sjúklingatrygging,95453060,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8214,Eftirlaunasjóður aldraðra,42011231,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8301,Landlæknir,886534523,7,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8317,Lyfjastofnun,381087584,7,Heilbrigði,07.1,Lyf og tæki,07.1.1,Lyf
+2008,Velferðarráðuneyti,8327,Geislavarnir ríkisins,79757796,5,Umhverfið,05.3,Mengunarvarnir,05.3.0,Mengunarvarnir
+2008,Velferðarráðuneyti,8331,Vinnueftirlit ríkisins,493034643,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8332,Ríkissáttasemjari,64629692,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8333,Jafnréttisstofa,78442531,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Velferðarráðuneyti,8334,Umboðsmaður skuldara,1146011873,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Velferðarráðuneyti,8358,Sjúkrahúsið á Akureyri,4543624248,7,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
+2008,Velferðarráðuneyti,8373,Landspítali,36464954943,7,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
+2008,Velferðarráðuneyti,8376,Bygging hátæknisjúkrahúss á lóð Landspítalans,1340000000,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Velferðarráðuneyti,8379,"Sjúkrahús, óskipt",108413113,7,Heilbrigði,07.3,Sjúkrahús,07.3.1,Almenn þjónusta
+2008,Velferðarráðuneyti,8383,Sjúkrahótel,103287812,7,Heilbrigði,07.3,Sjúkrahús,07.3.2,Sérstök þjónusta
+2008,Velferðarráðuneyti,8388,Samtök áhugamanna um áfengisvandamálið,658000000,10,Aðstoð fyrir aðra,10.7,Útskúfaðir,10.7.0,Útskúfaðir
+2008,Velferðarráðuneyti,8398,"Félagsmál, ýmis starfsemi",560606842,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8399,"Heilbrigðismál, ýmis starfsemi",1140232634,7,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8401,"Öldrunarstofnanir, almennt",-377680180,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8402,Framkvæmdasjóður aldraðra,1319197021,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8405,"Hrafnista, Reykjavík",1675383300,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8406,"Hrafnista, Hafnarfirði",1592706855,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8407,"Grund, Reykjavik",1505079640,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8408,"Sunnuhlíð, Kópavogi",612571315,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8409,Hjúkrunarheimilið Skjól,849049807,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8410,Hjúkrunarheimilið Eir,1474100843,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8411,"Garðvangur, Garði",306993379,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8412,Hjúkrunarheimilið Skógarbær,647606958,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8413,Hjúkrunarheimilið Droplaugarstöðum,662542579,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8414,"Hjúkrunarheimilið Lundur, Hellu",241135725,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8415,"Hjúkrunarheimilið Hulduhlíð, Eskifirði",142847746,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8416,"Hjúkrunarheimilið Hornbrekka, Ólafsfirði",182350427,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8417,"Hjúkrunarheimilið Naust, Þórshöfn",73135528,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8418,"Seljahlíð, Reykjavík",173607621,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8419,"Sólvangur, Hafnarfirði",575023878,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8423,"Höfði, Akranesi",518882345,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8424,Dvalarheimili aldraðra Borgarnesi,324916052,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8425,Dvalarheimili aldraðra Stykkishólmi,112760937,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8426,"Fellaskjól, Grundarfirði",85259049,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8427,"Jaðar, Ólafsvík",91913094,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8428,"Fellsendi, Búðardal",196554335,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8429,"Barmahlíð, Reykhólum",114599828,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8433,"Dalbær, Dalvík",273108758,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8434,Samningur við Akureyrarbæ um öldrunarþjónustu,1345790812,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8436,"Uppsalir, Fáskrúðsfirði",148482615,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8437,Samningur við Sveitarfélagið Hornafjörð um öldrunarþjónustu,207974582,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8438,"Klausturhólar, Kirkjubæjarklaustri",113465753,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8439,"Hjallatún, Vík",115313590,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8440,"Kumbaravogur, Stokkseyri",267856809,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8441,"Ás/Ásbyrgi, Hveragerði",742581511,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8442,"Hraunbúðir, Vestmannaeyjum",256688919,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8443,"Holtsbúð, Garðabæ",353241286,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8445,"Mörk, Reykjavík",881933312,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8446,"Hrafnista, Kópavogi",334918709,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8447,"Sóltún, Reykjavík",1129486177,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8460,"Dvalarrými aldraðra, önnur",406201562,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8470,"Vesturhlíð, Reykjavík",9024828,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8472,"Hlíðabær, Reykjavik",55461452,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8473,"Lindargata, Reykjavík",48437905,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8474,Dagvist og endurhæfingarstöð MS-sjúklinga,96225740,7,Heilbrigði,07.3,Sjúkrahús,07.3.2,Sérstök þjónusta
+2008,Velferðarráðuneyti,8475,"Múlabær, Reykjavík",81440650,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8476,"Fríðuhús, Reykjavík",44827820,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8477,"Dagvistun aldraðra, aðrar",606582579,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Velferðarráðuneyti,8479,Hlaðgerðarkot,89400000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8491,"Reykjalundur, Mosfellsbæ",1376800000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.1,Veikindi
+2008,Velferðarráðuneyti,8492,Heilsustofnun Náttúrulækningafélags Íslands,528400000,7,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8493,"Sjálfsbjörg, hjúkrunar- og endurhæfingarstofnun",485000000,7,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8494,Hlein,119500000,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8500,"Heilsugæslustöðvar, almennt",40105736,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8501,Sjúkraflutningar,1001260613,7,Heilbrigði,07.6,Ýmis þjónusta,07.6.0,Ýmis þjónusta
+2008,Velferðarráðuneyti,8506,Heilsugæsla á höfuðborgarsvæðinu,4522265778,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8508,Miðstöð heimahjúkrunar á höfuðborgarsvæðinu,1065000000,7,Heilbrigði,07.3,Sjúkrahús,07.3.4,Heimahjúkrun
+2008,Velferðarráðuneyti,8515,Heilsugæslustöðin Lágmúla í Reykjavík,181900000,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8517,Læknavaktin,329400000,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8552,Heilsugæslustöðin Dalvík,113911757,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8553,Samningur við Akureyrarbæ um heilsugæslu,524800000,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8588,Heilsugæslustöðin í Salahverfi í Kópavogi,306164087,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8700,Heilbrigðisstofnanir,10347583,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8716,Heilbrigðisstofnun Vesturlands,2889170533,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8721,Heilbrigðisstofnunin Patreksfirði,282054250,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8726,Heilbrigðisstofnun Vestfjarða,1104967935,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8745,Heilbrigðisstofnunin Blönduósi,412130582,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8751,Heilbrigðisstofnunin Sauðárkróki,835286100,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8756,Heilbrigðisstofnunin Fjallabyggð,438654473,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8761,Heilbrigðisstofnun Þingeyinga,900561927,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8777,Heilbrigðisstofnun Austurlands,2195700633,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8779,Heilbrigðisstofnun Suð-Austurlands,217100000,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8781,Heilbrigðisstofnunin Vestmannaeyjum,724719663,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8787,Heilbrigðisstofnun Suðurlands,2179895810,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8791,Heilbrigðisstofnun Suðurnesja,1830603934,7,Heilbrigði,07.4,Heilsugæslur,07.4.0,Heilsugæslur
+2008,Velferðarráðuneyti,8801,Greiningar- og ráðgjafarstöð ríkisins,395598134,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8805,Þjónustu- og þekkingarmiðstöð fyrir blinda og sjónskerta,293473753,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8807,Heyrnar- og talmeinastöð Íslands,248369469,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8809,Málefni fatlaðra,343786680,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8821,Barnaverndarstofa,1051178648,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
+2008,Velferðarráðuneyti,8841,Vinnumálastofnun,149633682,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8842,Vinnumál,169972012,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8851,Atvinnuleysistryggingasjóður,23108928491,10,Aðstoð fyrir aðra,10.5,Atvinnuleysi,10.5.0,Atvinnuleysi
+2008,Velferðarráðuneyti,8852,Tryggingasjóður sjálfstætt starfandi einstaklinga,22983550,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Velferðarráðuneyti,8853,Ábyrgðasjóður launa,1128958657,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8854,Fæðingarorlof,7859112414,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
+2008,Velferðarráðuneyti,8855,Foreldrar langveikra eða alvarlega fatlaðra barna,94898508,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Velferðarráðuneyti,8856,Starfsendurhæfing,464256772,4,Hagkerfið,04.1,Hagkerfið,04.1.2,Atvinna
+2008,Velferðarráðuneyti,8861,Leiguíbúðir,700224662,6,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
+2008,Fjármálaráðuneyti,9101,"Fjármálaráðuneyti, aðalskrifstofa",770602675,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Fjármálaráðuneyti,9103,Fjársýsla ríkisins,1416086150,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9210,Ríkisskattstjóri,2490775298,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9212,"Skatta- og tollamál, ýmis útgjöld",11953685,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9214,Yfirskattanefnd,127256479,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9215,Skattrannsóknarstjóri ríkisins,298074204,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9250,Innheimtukostnaður,543726720,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9262,Tollstjórinn,2273010649,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Fjármálaráðuneyti,9381,"Lífeyrisskuldbindingar, eftirlaun",9581552168,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Fjármálaráðuneyti,9391,Jöfnun á örorkubyrði almennra lífeyrissjóða,2698308447,10,Aðstoð fyrir aðra,10.1,Fötlun og veikindi,10.1.2,Fötlun
+2008,Fjármálaráðuneyti,9721,Fjármagnstekjuskattur,3579699331,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9811,Barnabætur,7757311515,10,Aðstoð fyrir aðra,10.4,Fjölskyldur,10.4.0,Fjölskyldur
+2008,Fjármálaráðuneyti,9821,Vaxtabætur,15019267430,6,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
+2008,Fjármálaráðuneyti,9831,Uppbætur á eftirlaun lífeyrisþega,278137,10,Aðstoð fyrir aðra,10.2,Eldri borgarar,10.2.0,Eldri borgarar
+2008,Fjármálaráðuneyti,9901,Framkvæmdasýsla ríkisins,-13288758,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Fjármálaráðuneyti,9905,Ríkiskaup,-13694316,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Fjármálaráðuneyti,9971,Ríkisábyrgðir,1716728579,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9973,Tapaðar kröfur og tjónabætur,-22946785,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9976,Lánaumsýsla ríkissjóðs,103468452,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9977,Bankasýsla ríkisins,84858311,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.2,Fjármál
+2008,Fjármálaráðuneyti,9980,Rekstrarfélag Stjórnarráðsins,102435722,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Fjármálaráðuneyti,9981,Ýmsar fasteignir ríkissjóðs,93566042,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Fjármálaráðuneyti,9984,Fasteignir ríkissjóðs,31555644,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Fjármálaráðuneyti,9985,Fyrrum varnarsvæði við Keflavíkurflugvöll,650000000,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.3,Ýmis þjónusta
+2008,Fjármálaráðuneyti,9991,Aðflutningsgjöld af útflutningi notaðra ökutækja,3811451,4,Hagkerfið,04.5,Umferð,04.5.1,Vegir
+2008,Fjármálaráðuneyti,9994,Virðisaukaskattur ríkisstofnana af tölvuvinnslu,179113238,1,Stjórnsýslan sjálf,01.8,Flutningur peninga,01.8.0,Flutningur peninga
+2008,Fjármálaráðuneyti,9999,Ýmislegt,1824735153,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Iðnaðarráðuneyti,11101,"Iðnaðarráðuneyti, aðalskrifstofa",200101548,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Iðnaðarráðuneyti,11199,Ráðstöfunarfé,1000000,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Iðnaðarráðuneyti,11205,Nýsköpunarmiðstöð Íslands,516951907,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Iðnaðarráðuneyti,11240,Iðnaðarrannsóknir og stóriðja,8290702,4,Hagkerfið,04.8,Rannsóknir,04.8.4,Framleiðsla
+2008,Iðnaðarráðuneyti,11242,Tækniþróunarsjóður,676150257,4,Hagkerfið,04.8,Rannsóknir,04.8.4,Framleiðsla
+2008,Iðnaðarráðuneyti,11251,Endurgreiðslur vegna kvikmyndagerðar á Íslandi,598772592,8,Menning og listir,08.2,Menning,08.2.0,Menning
+2008,Iðnaðarráðuneyti,11255,Stuðningur við nýsköpunarfyrirtæki,763549403,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Iðnaðarráðuneyti,11299,"Iðja og iðnaður, framlög",447990467,4,Hagkerfið,04.4,Framleiðsla,04.4.2,Framleiðsla
+2008,Iðnaðarráðuneyti,11301,Orkustofnun,351147603,4,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
+2008,Iðnaðarráðuneyti,11371,Orkusjóður,31200000,4,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
+2008,Iðnaðarráðuneyti,11373,Niðurgreiðslur á húshitun,1215519747,6,Heimilin,06.1,Húsnæði,06.1.0,Húsnæði
+2008,Iðnaðarráðuneyti,11375,Jöfnun kostnaðar við dreifingu raforku,246369773,4,Hagkerfið,04.3,Orka,04.3.5,Raforka
+2008,Iðnaðarráðuneyti,11399,Ýmis orkumál,95053303,4,Hagkerfið,04.3,Orka,04.3.6,Almenn orka
+2008,Iðnaðarráðuneyti,11401,Byggðaáætlun,497647003,6,Heimilin,06.2,Samfélag,06.2.0,Samfélag
+2008,Iðnaðarráðuneyti,11411,Byggðastofnun,309100000,6,Heimilin,06.2,Samfélag,06.2.0,Samfélag
+2008,Iðnaðarráðuneyti,11501,Ferðamálastofa,410516299,4,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
+2008,Iðnaðarráðuneyti,11511,Framkvæmdasjóður ferðamannastaða,39938020,4,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
+2008,Iðnaðarráðuneyti,11599,Ýmis ferðamál,472759569,4,Hagkerfið,04.7,Annar iðnaður,04.7.3,Ferðamenn
+2008,Efnahags- og viðskiptaráðuneyti,12101,"Efnahags- og viðskiptaráðuneyti, aðalskrifstofa",263008006,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Efnahags- og viðskiptaráðuneyti,12190,Ýmis verkefni,169466305,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Efnahags- og viðskiptaráðuneyti,12402,Fjármálaeftirlitið,1672256501,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Efnahags- og viðskiptaráðuneyti,12411,Samkeppniseftirlitið,324022171,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Efnahags- og viðskiptaráðuneyti,12431,Einkaleyfastofan,214524539,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Efnahags- og viðskiptaráðuneyti,12501,Hagstofa Íslands,916390520,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.2,Skipulagning
+2008,Efnahags- og viðskiptaráðuneyti,12811,Flutningssjóður olíuvara,430000000,4,Hagkerfið,04.3,Orka,04.3.2,Olía
+2008,Umhverfisráðuneyti,14101,"Umhverfisráðuneyti, aðalskrifstofa",379288540,1,Stjórnsýslan sjálf,01.1,Stjórnsýslan sjálf,01.1.1,Framkvæmda- og löggjafarvald
+2008,Umhverfisráðuneyti,14190,Ýmis verkefni,301807730,1,Stjórnsýslan sjálf,01.6,Ýmis verkefni,01.6.0,Ýmis verkefni
+2008,Umhverfisráðuneyti,14202,Náttúrurannsóknastöðin við Mývatn,20001052,5,Umhverfið,05.5,Rannsóknir,05.5.0,Rannsóknir
+2008,Umhverfisráðuneyti,14211,Umhverfisstofnun,997294112,5,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
+2008,Umhverfisráðuneyti,14212,Vatnajökulsþjóðgarður,354819952,5,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
+2008,Umhverfisráðuneyti,14231,Landgræðsla ríkisins,648764179,5,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
+2008,Umhverfisráðuneyti,14241,Skógrækt ríkisins,230239325,5,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
+2008,Umhverfisráðuneyti,14243,Hekluskógar,19350144,5,Umhverfið,05.4,Náttúruvernd,05.4.0,Náttúruvernd
+2008,Umhverfisráðuneyti,14287,Úrvinnslusjóður,845187454,5,Umhverfið,05.1,Úrgangur,05.1.0,Úrgangur
+2008,Umhverfisráðuneyti,14289,Endurvinnslan hf.,1661822829,5,Umhverfið,05.1,Úrgangur,05.1.0,Úrgangur
+2008,Umhverfisráðuneyti,14301,Skipulagsstofnun,201384617,6,Heimilin,06.2,Samfélag,06.2.0,Samfélag
+2008,Umhverfisráðuneyti,14303,Skipulagsmál sveitarfélaga,84364934,6,Heimilin,06.2,Samfélag,06.2.0,Samfélag
+2008,Umhverfisráðuneyti,14310,Landmælingar Íslands,253596747,1,Stjórnsýslan sjálf,01.3,Almenn þjónusta,01.3.2,Skipulagning
+2008,Umhverfisráðuneyti,14320,Mannvirkjastofnun,405155105,4,Hagkerfið,04.1,Hagkerfið,04.1.1,Viðskiptalífið
+2008,Umhverfisráðuneyti,14381,Ofanflóðasjóður,1312262799,10,Aðstoð fyrir aðra,10.9,Ýmis þjónusta,10.9.0,Ýmis þjónusta
+2008,Umhverfisráðuneyti,14401,Náttúrufræðistofnun Íslands,579733237,5,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
+2008,Umhverfisráðuneyti,14403,Náttúrustofur,122100000,5,Umhverfið,05.6,Umhverfisþjónusta,05.6.0,Umhverfissþjónusta
+2008,Umhverfisráðuneyti,14407,Stofnun Vilhjálms Stefánssonar,37701213,5,Umhverfið,05.5,Rannsóknir,05.5.0,Rannsóknir
+2008,Umhverfisráðuneyti,14412,Veðurstofa Íslands,650238323,1,Stjórnsýslan sjálf,01.4,Almenn þjónusta,01.3.2,Skipulagning
+2008,Fjármagnskostnaður,19801,Vaxtagjöld ríkissjóðs,75570268876,1,Stjórnsýslan sjálf,01.7,Skuldir,01.7.0,Skuldir
